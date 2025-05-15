@@ -1,0 +1,12 @@
+{
+  "name": "hello-tea",
+  "version": "1.0.0",
+  "description": "Example package for Tea Protocol integration",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": ["tea", "blockchain", "open-source"],
+  "author": "Your Name",
+  "license": "MIT"
+}
